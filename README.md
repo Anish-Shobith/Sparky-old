@@ -27,7 +27,7 @@ Sparky is a Multifuctional Discord Bot... The Only Bot You Will Ever Need
 ## Installation
 > - Heya The Installation is damm easy just a piece of cake <br>
 So,
-> - [RightClickHere](https://raw.githubusercontent.com/Sparky-Discord-Bot/Sparky/master/SparkyInstaller.cmd) And Click Save Link <br> As And Save The File As `SparkyInstaller.cmd` For Windows
+> - [RightClickHere](https://raw.githubusercontent.com/Sparky-Discord-Bot/Sparky-Scripts/master/windows-installer.cmd) And Click Save Link <br> As And Save The File As `SparkyInstaller.cmd` For Windows
 <br>
 
 * While Running Run it as Adminstrator
