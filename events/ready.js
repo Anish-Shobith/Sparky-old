@@ -7,7 +7,7 @@ module.exports = async (bot) => {
   const dbl = new Dbl(botconfig.dbl, bot);
     
         setGame();
-        console.log(chalk.blue(`Bot has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} guilds, ${bot.users.size} members, and ${bot.commands.size} commands!`)); 
+        console.log(chalk.blue(`${bot.user.username} has started, with ${bot.users.size} users, in ${bot.channels.size} channels of ${bot.guilds.size} guilds and ${bot.commands.size} commands!`)); 
         console.log(chalk.green(`Sparky Version: ${botconfig.version}`));
         console.log(chalk.blue(`Sparky Developers:${botconfig.devs}`));
         console.log(chalk.green(`Sparky Prefix: ${botconfig.PREFIX}`));
