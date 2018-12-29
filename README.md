@@ -45,6 +45,13 @@ If You Know How To Host On Other Devices Please Pull A Request**
 ** ADD A Star to the repo to make me continue this project
 > The Bot is Under Development <br>
 
+
+# Rules :
+> Making this bot as a public bot is not allowed in matter... if found the bot will go down as soon as it comes to our notice <br>
+
+
+
+
 ## Developer
 >- Anish Shobith<br>
 >- iona dev 
