@@ -4,7 +4,7 @@
   "description": "The Only Discord Bot You Need",
   "main": "sparky.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "sparky.js"
   },
   "dependencies": {
     "base-64": "^0.1.0",
