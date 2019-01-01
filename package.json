@@ -4,7 +4,7 @@
   "description": "The Only Discord Bot You Need",
   "main": "sparky.js",
   "scripts": {
-    "test": "npm run lint && npm run mocha"
+    "test": "./test/index.js"
   },
   "dependencies": {
     "base-64": "^0.1.0",
