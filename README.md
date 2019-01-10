@@ -23,33 +23,17 @@ alt="Discord server"></a>
 
 ---
 Sparky is a Multifuctional Discord Bot... The Only Bot You Will Ever Need
-
-## Installation
-> - Heya The Installation is damm easy just a piece of cake <br>
-So,
-> - [RightClickHere](https://raw.githubusercontent.com/Sparky-Discord-Bot/Sparky-Scripts/master/windows-installer.cmd) And Click Save Link <br> As And Save The File As `SparkyInstaller.cmd` For Windows
-<br>
-
-* While Running Run it as Adminstrator
-> - After Downloading Everything then SparkyInstaller Will Automatically Ask Your Login Details Enter It 
-> - Then Automatically The Bot Will Start
-> - Enjoy :D
-
-** You might not Sparky Folder it will be there in your main drive and in users folder thank you ...
-
-**Currently Sparky Does Not Support Other OS I am Sorry About That 
-If You Know How To Host On Other Devices Please Pull A Request**
----
-
-
-** ADD A Star to the repo to make me continue this project
 > The Bot is Under Development <br>
 
 
 # Rules :
 > Making this bot as a public bot is not allowed in matter... if found the bot will go down as soon as it comes to our notice <br>
 
-
+## Todo
+* [ ] Databse
+* [ ] Guild per Configuration
+* [ ] Moderation Commands
+* [ ] Improving Codes
 
 
 ## Developer
