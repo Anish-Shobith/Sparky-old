@@ -1,12 +1,13 @@
-const { Client } = require("discord.js");
-const Sparky = new Client();
+/**
+ * Author: Anish Shobith
+ * Main file
+ */
 
-Sparky.on("error", async (e) => {
-console.log(e)
-})
-
-Sparky.on("ready", async () => {
-console.log("I Am Ready!!!!")
-})
-
-Sparky.login(process.env.token)
+const Discord = require('discord.js');
+const bot = new Discord.Client();
+const config = require("./config");
+bot.config = config;
+bot.util = require("./Util/util");
+require("./Util/internals")(bot)
+require("./Internals/lavalink")(bot)
+bot.login(bot.config.token);
