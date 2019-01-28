@@ -3,7 +3,6 @@
  * Event: message
  */
 
-const Prefix = require("../Models/guild");
 module.exports = async (bot, message) => {
 
 if (message.content === '!join') {
