@@ -1,34 +1,3 @@
-/*const { Collection } = require("discord.js");
-const fs = require("fs");
-
-
-   module.exports = (bot) => {
-    bot.commands = new Collection();
-    bot.aliases = new Collection();
-    function loadCommands(dir = '/commands/') {
-
-        fs.readdir('./' + dir, null, function (err, files) {
-            if (err) return console.error(err);
-            files.forEach(file => {
-                if (fs.lstatSync(`./${dir}${file}/`).isDirectory()) return loadCommands(`${dir}${file}/`);
-    
-                try {
-                    delete require.cache[require.resolve(`..${dir}${file}`)];
-                } catch (e) {
-                    return console.log(e.stack)
-                }
-    
-                let prop = require(`..${dir}${file}`);
-                bot.commands.set(prop.help.name, prop);
-                    if(prop.help.aliases) prop.help.aliases.forEach(alias => {
-                        bot.aliases.set(alias, prop.help.name);
-                    });
-            });
-        });
-    }
-    loadCommands();
-   }*/
-
 
 /**
  * Author: Anish Shobith
