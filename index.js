@@ -9,5 +9,4 @@ const config = require("./config");
 bot.config = config;
 bot.util = require("./Util/util");
 require("./Util/internals")(bot)
-require("./Internals/lavalink")(bot)
 bot.login(bot.config.token);
