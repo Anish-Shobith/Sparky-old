@@ -22,6 +22,9 @@ alt="Discord server"></a>
 </div>
 
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Sparky-Discord-Bot/Sparky.svg)](https://greenkeeper.io/)
+
 Sparky is a Multifuctional Discord Bot... The Only Bot You Will Ever Need
 > The Bot is Under Development <br>
 
