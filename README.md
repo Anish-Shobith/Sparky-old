@@ -37,7 +37,7 @@ Sparky is a Multifuctional Discord Bot... The Only Bot You Will Ever Need
 > Making this bot as a public bot is not allowed in matter... if found the bot will go down as soon as it comes to our notice <br>
 
 ## Todo
-* [ ] Databse
+* [ ] Database
 * [ ] Guild per Configuration
 * [ ] Moderation Commands
 * [ ] Improving Codes
